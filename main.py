@@ -157,8 +157,8 @@ def write_csv(filename, header, data):
       lines += 1
     return lines
 
-head,enrolment_data = read_csv("pre-u-enrolment-by-age.csv")
-print(filter_gender(enrolment_data,"F"))
+# head,enrolment_data = read_csv("pre-u-enrolment-by-age.csv")
+# print(filter_gender(enrolment_data,"F"))
 
 # a = a
 # b = b
